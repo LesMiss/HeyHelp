@@ -1,0 +1,191 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/svg/arrow-right.svg</file>
+        <file>images/svg/chart-pie-alt.svg</file>
+        <file>images/svg/cloud-check.svg</file>
+        <file>images/svg/comment-lock.svg</file>
+        <file>images/svg/comments-alt.svg</file>
+        <file>images/svg/estate.svg</file>
+        <file>images/svg/fast-mail.svg</file>
+        <file>images/svg/focus-add.svg</file>
+        <file>images/svg/message.svg</file>
+        <file>images/svg/plus.svg</file>
+        <file>images/svg/qrcode-scan.svg</file>
+        <file>images/svg/setting.svg</file>
+        <file>images/svg/shield-check.svg</file>
+        <file>images/svg/user-check.svg</file>
+        <file>images/svg/x-add.svg</file>
+        <file>images/new svg/comment-alt-lock.svg</file>
+        <file>images/new svg/comment-alt-shield.svg</file>
+        <file>images/new svg/comments-alt.svg</file>
+        <file>images/new svg/estate.svg</file>
+        <file>images/new svg/qrcode-scan.svg</file>
+        <file>images/new svg/setting.svg</file>
+        <file>images/new svg/shield-check.svg</file>
+        <file>images/svg/comment-alt-shield.svg</file>
+        <file>images/new svg/mouse.svg</file>
+        <file>images/png/—Pngtree—black dots_6245396.png</file>
+        <file>images/png/—Pngtree—polka dot pattern material_6722563.png</file>
+        <file>images/png/avatar.png</file>
+        <file>images/png/logo.png</file>
+        <file>images/png/up-arrow.png</file>
+        <file>images/svg/search.svg</file>
+        <file>fonts/Mont/demo.html</file>
+        <file>fonts/Mont/Mont-Black.eot</file>
+        <file>fonts/Mont/Mont-Black.ttf</file>
+        <file>fonts/Mont/Mont-Black.woff</file>
+        <file>fonts/Mont/Mont-BlackItalic.eot</file>
+        <file>fonts/Mont/Mont-BlackItalic.ttf</file>
+        <file>fonts/Mont/Mont-BlackItalic.woff</file>
+        <file>fonts/Mont/Mont-Bold.eot</file>
+        <file>fonts/Mont/Mont-Bold.ttf</file>
+        <file>fonts/Mont/Mont-Bold.woff</file>
+        <file>fonts/Mont/Mont-BoldItalic.eot</file>
+        <file>fonts/Mont/Mont-BoldItalic.ttf</file>
+        <file>fonts/Mont/Mont-BoldItalic.woff</file>
+        <file>fonts/Mont/Mont-Book.eot</file>
+        <file>fonts/Mont/Mont-Book.ttf</file>
+        <file>fonts/Mont/Mont-Book.woff</file>
+        <file>fonts/Mont/Mont-BookItalic.eot</file>
+        <file>fonts/Mont/Mont-BookItalic.ttf</file>
+        <file>fonts/Mont/Mont-BookItalic.woff</file>
+        <file>fonts/Mont/Mont-DEMOExtraLight.eot</file>
+        <file>fonts/Mont/Mont-DEMOExtraLight.ttf</file>
+        <file>fonts/Mont/Mont-DEMOExtraLight.woff</file>
+        <file>fonts/Mont/Mont-DEMOHeavy.eot</file>
+        <file>fonts/Mont/Mont-DEMOHeavy.ttf</file>
+        <file>fonts/Mont/Mont-DEMOHeavy.woff</file>
+        <file>fonts/Mont/Mont-ExtraLight.eot</file>
+        <file>fonts/Mont/Mont-ExtraLight.ttf</file>
+        <file>fonts/Mont/Mont-ExtraLight.woff</file>
+        <file>fonts/Mont/Mont-ExtraLightItalic.eot</file>
+        <file>fonts/Mont/Mont-ExtraLightItalic.ttf</file>
+        <file>fonts/Mont/Mont-ExtraLightItalic.woff</file>
+        <file>fonts/Mont/Mont-Hairline.eot</file>
+        <file>fonts/Mont/Mont-Hairline.ttf</file>
+        <file>fonts/Mont/Mont-Hairline.woff</file>
+        <file>fonts/Mont/Mont-HairlineItalic.eot</file>
+        <file>fonts/Mont/Mont-HairlineItalic.ttf</file>
+        <file>fonts/Mont/Mont-HairlineItalic.woff</file>
+        <file>fonts/Mont/Mont-Heavy.eot</file>
+        <file>fonts/Mont/Mont-Heavy.ttf</file>
+        <file>fonts/Mont/Mont-Heavy.woff</file>
+        <file>fonts/Mont/Mont-HeavyItalic.eot</file>
+        <file>fonts/Mont/Mont-HeavyItalic.ttf</file>
+        <file>fonts/Mont/Mont-HeavyItalic.woff</file>
+        <file>fonts/Mont/Mont-Light.eot</file>
+        <file>fonts/Mont/Mont-Light.ttf</file>
+        <file>fonts/Mont/Mont-Light.woff</file>
+        <file>fonts/Mont/Mont-LightItalic.eot</file>
+        <file>fonts/Mont/Mont-LightItalic.ttf</file>
+        <file>fonts/Mont/Mont-LightItalic.woff</file>
+        <file>fonts/Mont/Mont-Regular.eot</file>
+        <file>fonts/Mont/Mont-Regular.ttf</file>
+        <file>fonts/Mont/Mont-Regular.woff</file>
+        <file>fonts/Mont/Mont-RegularItalic.eot</file>
+        <file>fonts/Mont/Mont-RegularItalic.ttf</file>
+        <file>fonts/Mont/Mont-RegularItalic.woff</file>
+        <file>fonts/Mont/Mont-SemiBold.eot</file>
+        <file>fonts/Mont/Mont-SemiBold.ttf</file>
+        <file>fonts/Mont/Mont-SemiBold.woff</file>
+        <file>fonts/Mont/Mont-SemiBoldItalic.eot</file>
+        <file>fonts/Mont/Mont-SemiBoldItalic.ttf</file>
+        <file>fonts/Mont/Mont-SemiBoldItalic.woff</file>
+        <file>fonts/Mont/Mont-Thin.eot</file>
+        <file>fonts/Mont/Mont-Thin.ttf</file>
+        <file>fonts/Mont/Mont-Thin.woff</file>
+        <file>fonts/Mont/Mont-ThinItalic.eot</file>
+        <file>fonts/Mont/Mont-ThinItalic.ttf</file>
+        <file>fonts/Mont/Mont-ThinItalic.woff</file>
+        <file>fonts/Mont/stylesheet.css</file>
+        <file>components/AvatarItem.qml</file>
+        <file>components/MenuButton.qml</file>
+        <file>images/png/ui.jpeg</file>
+        <file>components/DonateButton.qml</file>
+        <file>images/new svg/ellipsis-v.svg</file>
+        <file>images/new svg/volume-mute.svg</file>
+        <file>images/new svg/volume-off.svg</file>
+        <file>images/new svg/volume-up.svg</file>
+        <file>images/png/avatar1.png</file>
+        <file>components/RegItem.qml</file>
+        <file>fonts/Poppins/Poppins-Black.ttf</file>
+        <file>fonts/Poppins/Poppins-BlackItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-Bold.ttf</file>
+        <file>fonts/Poppins/Poppins-BoldItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-ExtraBold.ttf</file>
+        <file>fonts/Poppins/Poppins-ExtraBoldItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-ExtraLight.ttf</file>
+        <file>fonts/Poppins/Poppins-ExtraLightItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-Italic.ttf</file>
+        <file>fonts/Poppins/Poppins-Light.ttf</file>
+        <file>fonts/Poppins/Poppins-LightItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-Medium.ttf</file>
+        <file>fonts/Poppins/Poppins-MediumItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-Regular.ttf</file>
+        <file>fonts/Poppins/Poppins-SemiBold.ttf</file>
+        <file>fonts/Poppins/Poppins-SemiBoldItalic.ttf</file>
+        <file>fonts/Poppins/Poppins-Thin.ttf</file>
+        <file>fonts/Poppins/Poppins-ThinItalic.ttf</file>
+        <file>images/new svg/check.svg</file>
+        <file>images/new svg/angle-left.svg</file>
+        <file>images/new svg/lock.svg</file>
+        <file>images/new svg/eye-slash.svg</file>
+        <file>images/new svg/eye.svg</file>
+        <file>images/new svg/user-check.svg</file>
+        <file>images/new svg/graduation-cap.svg</file>
+        <file>images/new svg/clock-two.svg</file>
+        <file>allPages/regWindow/FirsPage.qml</file>
+        <file>allPages/regWindow/SecondPage.qml</file>
+        <file>allPages/regWindow/ThirdPage.qml</file>
+        <file>allPages/mainWindow/HomePage.qml</file>
+        <file>allPages/mainWindow/MainWindow.qml</file>
+        <file>allPages/mainWindow/MessagePage.qml</file>
+        <file>fonts/Gotham Pro/COPYRIGHT.txt</file>
+        <file>fonts/Gotham Pro/gothampro.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_black.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_blackitalic.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_bold.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_bolditalic.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_italic.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_light.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_lightitalic.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_medium.ttf</file>
+        <file>fonts/Gotham Pro/gothampro_mediumitalic.ttf</file>
+        <file>fonts/Youtube-Sans-font/youtube-sans-bold.ttf</file>
+        <file>fonts/Youtube-Sans-font/youtube-sans-light.ttf</file>
+        <file>fonts/Youtube-Sans-font/youtube-sans-medium.ttf</file>
+        <file>components/TextField/SmartTextField.qml</file>
+        <file>images/new svg/user-check-green.svg</file>
+        <file>images/new svg/user-check1.svg</file>
+        <file>images/new svg/user.svg</file>
+        <file>images/new svg/key-skeleton-alt.svg</file>
+        <file>components/TextField/CustomTextField.qml</file>
+        <file>images/new svg/atom.svg</file>
+        <file>images/new svg/clock-three.svg</file>
+        <file>images/new svg/user-circle.svg</file>
+        <file>images/new svg/image-shield.svg</file>
+        <file>images/png/IMG_5462.HEIC</file>
+        <file>images/logo/appstore.png</file>
+        <file>images/logo/iTunesArtwork3x.png</file>
+        <file>images/logo/iTunesArtworkLegacy3x.png</file>
+        <file>images/logo/iTunesArtwork@1x.png</file>
+        <file>images/logo/logo-comp.png</file>
+        <file>images/logo/123.png</file>
+        <file>images/logo/10.png</file>
+        <file>images/logo/11.png</file>
+        <file>images/logo/15.png</file>
+        <file>images/logo/16.png</file>
+        <file>images/logo/89.jpeg</file>
+        <file>images/logo/01.png</file>
+        <file>images/logo/02.png</file>
+        <file>images/logo/89.png</file>
+        <file>images/logo/03.png</file>
+        <file>images/logo/04.png</file>
+        <file>images/logo/05.png</file>
+        <file>images/logo/003.png</file>
+        <file>images/svg/comment-alt-search.svg</file>
+        <file>images/svg/comment-alt-search-pur.svg</file>
+        <file>allPages/mainWindow/SearchUsersPage.qml</file>
+    </qresource>
+</RCC>
